@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Callum Reay
 - 📖 I’m studying computing at MTU Kerry 
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me is on GitHub and LinkedIn 
 
 <!---
