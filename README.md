@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Callum Reay
-- 📖 I’m studying computing at MTU Kerry 
+- 📖 I’m studying bachelor of science in computing at MTU Kerry 
 - 📫 How to reach me is on GitHub and LinkedIn
 - https://www.linkedin.com/in/callum-reay-019b15294/
 - https://github.com/calcoderreay1996
