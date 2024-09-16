@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Callum Reay
-- A Self Learner in Programming
+- Studying as a Self Learner in computer programming
 - 📫 How to reach me is on GitHub
 
 <!---
